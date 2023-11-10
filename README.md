@@ -17,10 +17,10 @@ Estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistema pela Unis
 <p align="left"> 🎓 Hardskills: Algoritimo; Lógica de Programação; Orientação a Objeto; Java; Html; Css; Javascript; Banco de Dados (SQL).</p>
 <p align="left"> 🌱 Softskills: Responsabilidade; Pontualidade; Comprometimento; Trabalho em Equipe.</p>
 </div>
-Eu ainda estou em processo de aprendizagem das Hardskills atuais, e adicionando novas na lista de desejo, e para me dedicar ainda mais a isso, estou a procura de uma oportunidade para entrar e atuar na área de tecnologia.
+Ainda estou em processo de aprendizagem das Hardskills atuais, adicionando novas na lista de desejo, e para me dedicar ainda mais a isso estou a procura de uma oportunidade para atuar na área de tecnologia.
 </br>
 </br>
-Eu compenso a falta de experiência com pratica, dedicação e empenho nas realizações de atividades no dia a dia.
+Compenso a falta de experiência com pratica, dedicação e empenho na realização das atividades.
 </br>
 </br>
 <div>
