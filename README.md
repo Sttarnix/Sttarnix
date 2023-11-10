@@ -23,6 +23,7 @@ Estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistema pela Unis
 <p align="left"> 🌱 Softskills: Responsabilidade; Pontualidade; Comprometimento; Trabalho em Equipe.</p>
 </div>
 Eu ainda estou em processo de aprendizagem das Hardskills atuais, e adicionando novas na lista de desejo, e para me dedicar ainda mais a isso, estou a procura de uma oportunidade para entrar e atuar na área de tecnologia.
+</br>
 Eu compenso a falta de experiência com pratica, dedicação e empenho nas realizações de atividades no dia a dia.
 </br>
 
