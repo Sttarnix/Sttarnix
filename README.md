@@ -7,7 +7,7 @@ Estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistema pela Unis
 
 Estou em processo de aprendizagem em Hardskills, e a procura de uma oportunidade para entrar e atuar na área de tecnologia.
 Eu compenso a falta de experiência com pratica, dedicação e empenho nas realizações de atividades no dia a dia.
-
+<!--
 <div>
 <a href="https://www.twitch.tv/SttarnixTdP" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "aiara.dnls@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
