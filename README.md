@@ -10,7 +10,7 @@
 </div>
 </br>
 
-### Ooi, podem me chamar de Aya, tenho 25 anos, sou natural de Santa Catarina.
+### Ooi, pode me chamar de Aya, tenho 25 anos, sou natural de Santa Catarina.
 
 Estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistema pela Unisociesc;
 <div display="inline-block">
