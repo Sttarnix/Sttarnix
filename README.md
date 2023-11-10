@@ -1,18 +1,30 @@
-### Olá, meu nome é Aiara (AKA Aya), tenho 25 anos, sou natural de Santa Catarina.
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Aiara Dnls</h1>
+  <a href="https://www.linkedin.com/in/aiara-dorneles-823927226/">
+    <img align="left" width="80px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="linkedin" style="vertical-align:top;">
+  </a> 
+  <a href="aiara.dnls@gmail.com">
+    <img align="left" width="80px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="email" style="vertical-align:top;">
+  </a>
+  <a href="http://www.twitch.tv/SttarnixTdP">
+    <img width="80px" src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="twitch" style="vertical-align:top;">
+  </a>
+</div>
+</br>
+
+### Ooi, podem me chamar de Aya, tenho 25 anos, sou natural de Santa Catarina.
 
 Estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistema pela Unisociesc;
-
-:mortar_board: Hardskills: Algoritimo; Lógica de Programação; Orientação a Objeto; Java; Html; Css; Javascript; Banco de Dados (SQL).
-🌱 Softskills: Responsabilidade; Pontualidade; Comprometimento; Trabalho em Equipe.
-
-Estou em processo de aprendizagem em Hardskills, e a procura de uma oportunidade para entrar e atuar na área de tecnologia.
-Eu compenso a falta de experiência com pratica, dedicação e empenho nas realizações de atividades no dia a dia.
-
-<div>
-<a href="https://www.twitch.tv/SttarnixTdP" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "aiara.dnls@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aiara-dorneles-823927226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div display="inline-block">
+<p align="left"> 🎓 Hardskills: Algoritimo; Lógica de Programação; Orientação a Objeto; Java; Html; Css; Javascript; Banco de Dados (SQL).</p>
+<p align="left"> 🌱 Softskills: Responsabilidade; Pontualidade; Comprometimento; Trabalho em Equipe.</p>
 </div>
+Eu ainda estou em processo de aprendizagem das Hardskills atuais, e adicionando novas na lista de desejo, e para me dedicar ainda mais a isso, estou a procura de uma oportunidade para entrar e atuar na área de tecnologia.
+Eu compenso a falta de experiência com pratica, dedicação e empenho nas realizações de atividades no dia a dia.
+</br>
 
 <div>
 <a href="https://github.com/Sttarnix">
