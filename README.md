@@ -2,10 +2,10 @@
  
  <h1 align="left">Aiara Dnls</h1>
   <a href="https://www.linkedin.com/in/aiara-dorneles-823927226/">
-    <img align="left" width="80px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="linkedin" style="vertical-align:top;">
+    <img align="left" width="50px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="linkedin" style="vertical-align:top;">
   </a> 
   <a href="http://www.twitch.tv/SttarnixTdP">
-    <img width="80px" src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="twitch" style="vertical-align:top;">
+    <img width="50px" src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="twitch" style="vertical-align:top;">
   </a>
 </div>
 </br>
@@ -24,7 +24,7 @@ Compenso a falta de experiência com pratica, dedicação e empenho na realizaç
 </br>
 </br>
 <div>
- <img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" alt="email" style="vertical-align:top;">
+ <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" alt="email" style="vertical-align:top;">
  </br> 
  E-mail para contato: aiara.dnls@gmail.com
 </div>
