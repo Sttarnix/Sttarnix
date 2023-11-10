@@ -30,6 +30,8 @@ Eu compenso a falta de experiência com pratica, dedicação e empenho nas reali
 </div>
 </br>
 </br>
+</br>
+</br>
 <div>
 <a href="https://github.com/Sttarnix">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sttarnix&layout=compact&langs_count=7&theme=dracula"/>
