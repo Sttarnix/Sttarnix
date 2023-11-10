@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/aiara-dorneles-823927226/">
     <img align="left" width="80px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="linkedin" style="vertical-align:top;">
   </a> 
-  <a href="aiara.dnls@gmail.com">
-    <img align="left" width="80px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="email" style="vertical-align:top;">
-  </a>
   <a href="http://www.twitch.tv/SttarnixTdP">
     <img width="80px" src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="twitch" style="vertical-align:top;">
   </a>
@@ -24,6 +21,9 @@ Eu ainda estou em processo de aprendizagem das Hardskills atuais, e adicionando 
 </br>
 </br>
 Eu compenso a falta de experiência com pratica, dedicação e empenho nas realizações de atividades no dia a dia.
+</br>
+</br>
+E-mail para contato: aiara.dnls@gmail.com
 </br>
 </br>
 <div>
