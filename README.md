@@ -24,7 +24,7 @@ Eu compenso a falta de experiência com pratica, dedicação e empenho nas reali
 </br>
 </br>
 <div>
- <img align="left" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThb9BnzKGxRbZJm5sgR8MgOP6gwgoK22jCRPS35sHHlRKEdxlYtxeZBh_fM4diYJs9bOY&usqp=CAU" alt="email" style="vertical-align:top;">
+ <img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" alt="email" style="vertical-align:top;">
  </br> 
  E-mail para contato: aiara.dnls@gmail.com
 </div>
