@@ -3,11 +3,10 @@
  <h1 align="left">Aiara Dnls</h1>
   <a href="https://www.linkedin.com/in/aiara-dorneles-823927226/">
     <img align="left" width="50px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="linkedin" style="vertical-align:top;">
-  </a> 
- 
+  </a>
 </div>
 </br>
-
+</br>
 ### Ooi, pode me chamar de Aya, tenho 26 anos, sou natural de Santa Catarina.
 
 Estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistema pela Unisociesc;
